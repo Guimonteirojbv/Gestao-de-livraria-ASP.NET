@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestão de Livraria", "Gestão de Livraria.csproj", "{B8CE4D3F-54CA-4233-B55D-348DDD1BF39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8CE4D3F-54CA-4233-B55D-348DDD1BF39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CE4D3F-54CA-4233-B55D-348DDD1BF39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CE4D3F-54CA-4233-B55D-348DDD1BF39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CE4D3F-54CA-4233-B55D-348DDD1BF39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B31F8D-C550-4672-AD2A-3AE60C27A494}
+	EndGlobalSection
+EndGlobal
